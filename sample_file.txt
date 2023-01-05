@@ -1,1 +1,2 @@
 Hey there , this is a sample file.
+Another line in this file for commit message 2.
